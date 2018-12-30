@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install csa_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+CsaViewTool::Renderer.copyright "Christopher Aguilar", "All rights reserved"
+```
 
 ## Development
 
